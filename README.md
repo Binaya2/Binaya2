@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Binaya!
+
+I'm a beginner developer, looking to learn as much as possible and hopefully start my career in Tech. 
+
+Any advice or links to learning articles will be appreciated!
+
 <!--
 **Binaya2/Binaya2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
